@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/shunya-kato.github.io/static/css/main.3cdd21b4.chunk.css",
-    "main.js": "/shunya-kato.github.io/static/js/main.320e9289.chunk.js",
-    "main.js.map": "/shunya-kato.github.io/static/js/main.320e9289.chunk.js.map",
+    "main.js": "/shunya-kato.github.io/static/js/main.af8dbc5d.chunk.js",
+    "main.js.map": "/shunya-kato.github.io/static/js/main.af8dbc5d.chunk.js.map",
     "runtime-main.js": "/shunya-kato.github.io/static/js/runtime-main.ff31251c.js",
     "runtime-main.js.map": "/shunya-kato.github.io/static/js/runtime-main.ff31251c.js.map",
     "static/css/2.64685cca.chunk.css": "/shunya-kato.github.io/static/css/2.64685cca.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.64685cca.chunk.css",
     "static/js/2.92df0f78.chunk.js",
     "static/css/main.3cdd21b4.chunk.css",
-    "static/js/main.320e9289.chunk.js"
+    "static/js/main.af8dbc5d.chunk.js"
   ]
 }
