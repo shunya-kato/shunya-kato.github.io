@@ -54,7 +54,7 @@ const navbarItem: NavbarItem[] = [
 ];
 
 const Navbar: React.FC = () => (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
         <Route
             render={() => (
                 <AppBar color="default">
