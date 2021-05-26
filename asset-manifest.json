@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/shunya-kato.github.io/static/css/main.3cdd21b4.chunk.css",
+    "main.js": "/shunya-kato.github.io/static/js/main.320e9289.chunk.js",
+    "main.js.map": "/shunya-kato.github.io/static/js/main.320e9289.chunk.js.map",
+    "runtime-main.js": "/shunya-kato.github.io/static/js/runtime-main.ff31251c.js",
+    "runtime-main.js.map": "/shunya-kato.github.io/static/js/runtime-main.ff31251c.js.map",
+    "static/css/2.64685cca.chunk.css": "/shunya-kato.github.io/static/css/2.64685cca.chunk.css",
+    "static/js/2.92df0f78.chunk.js": "/shunya-kato.github.io/static/js/2.92df0f78.chunk.js",
+    "static/js/2.92df0f78.chunk.js.map": "/shunya-kato.github.io/static/js/2.92df0f78.chunk.js.map",
+    "static/js/3.f100a431.chunk.js": "/shunya-kato.github.io/static/js/3.f100a431.chunk.js",
+    "static/js/3.f100a431.chunk.js.map": "/shunya-kato.github.io/static/js/3.f100a431.chunk.js.map",
+    "index.html": "/shunya-kato.github.io/index.html",
+    "static/css/2.64685cca.chunk.css.map": "/shunya-kato.github.io/static/css/2.64685cca.chunk.css.map",
+    "static/css/main.3cdd21b4.chunk.css.map": "/shunya-kato.github.io/static/css/main.3cdd21b4.chunk.css.map",
+    "static/js/2.92df0f78.chunk.js.LICENSE.txt": "/shunya-kato.github.io/static/js/2.92df0f78.chunk.js.LICENSE.txt",
+    "static/media/devicon.min.css": "/shunya-kato.github.io/static/media/devicon.e923599d.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff31251c.js",
+    "static/css/2.64685cca.chunk.css",
+    "static/js/2.92df0f78.chunk.js",
+    "static/css/main.3cdd21b4.chunk.css",
+    "static/js/main.320e9289.chunk.js"
+  ]
+}
