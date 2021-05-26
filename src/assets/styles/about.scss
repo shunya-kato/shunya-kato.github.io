@@ -1,0 +1,40 @@
+$text-color: black;
+$background-color: white;
+
+body {
+  background-color: white;
+}
+.home {
+  background: white;
+  margin-bottom: 10px;
+}
+
+.area {
+  background: $background-color;
+  width: 100%;
+  height: 94vh;
+
+  .titleHome {
+    padding-top: 165px;
+    text-align: center;
+    font-size: 50px;
+    p {
+      color: $text-color;
+    }
+  }
+}
+
+@media screen and (max-width: 479px) {
+  .area {
+    height: 100vh;
+
+    .titleHome {
+      padding-top: 240px;
+      text-align: center;
+      font-size: 40px;
+      p {
+        color: $text-color;
+      }
+    }
+  }
+}
